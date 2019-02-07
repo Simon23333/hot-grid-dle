@@ -39,3 +39,13 @@ figcaption, figure {
   margin: 0;
   padding: 0;
 }
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  bottom: .5rem;
+  left: .5rem;
+}
